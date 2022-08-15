@@ -1,0 +1,1 @@
+This repository contains html form validation codes for some user input and getting the object details
